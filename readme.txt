@@ -1,0 +1,3 @@
+All that needs to be done for the program to work is you input for every term the variables in sorted order and follow the assumptions listed at the beginning of the main.cpp
+
+the console application is pretty user friendly, and there are nice commented blocks of code throughout the files attached that could help understand the inner workings of the program/algorithm if that could be found helpful.
